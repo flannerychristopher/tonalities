@@ -1,3 +1,3 @@
-import * as tonalities from './lib/index'
+import * as tonalities from './src/index'
 
 module.exports = tonalities
