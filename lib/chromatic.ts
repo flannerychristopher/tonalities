@@ -1,4 +1,6 @@
-const chromatic = [
+import { Tonality } from './types/types'
+
+const chromatic: Tonality = [
   0,
   1,
   2,
@@ -129,4 +131,4 @@ const chromatic = [
   127
 ]
 
-module.exports = chromatic
+export default chromatic
